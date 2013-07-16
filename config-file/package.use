@@ -1,0 +1,25 @@
+net-misc/tightvnc server 
+
+dev-lang/php:5.4 apache2 berkdb bzip2 cjk cli crypt ctype fileinfo filter gd gdbm hash iconv ipv6 json mysql nls phar posix readline session simplexml snmp ssl threads tokenizer truetype unicode xml zlib
+
+dev-db/mysql -perl 
+dev-lang/python berkdb sqlite
+dev-libs/openssl -bindist
+
+media-video/mplayer -dvdnav -dvd x264 swp half thumb fastmult vfp edsp java tls
+media-video/mplayer2 -dvdnav -dvd x264 swp half thumb fastmult vfp edsp java tls png
+
+sys-apps/busybox -make-symlinks
+sys-libs/zlib minizip
+
+www-plugins/gnash agg dbus dump ffmpeg gtk mysql nls nsplugin ssl -cairo -cygnal -doc -egl -fbcon -gconf -gnome -gstreamer -harden -kde -opengl -openvg -python -sdl sdl-sound -ssh
+www-servers/apache apache2_modules_dav threads
+
+x11-base/xorg-server -minimal xorg
+x11-libs/libdrm video_cards_freedreno libkms
+
+#required by net-print/cups-1.6.2-r5, required by net-print/cups-pdf-3.0_beta1,
+=app-text/ghostscript-gpl-9.05-r1 cups
+
+
+

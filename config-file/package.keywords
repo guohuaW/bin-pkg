@@ -1,0 +1,89 @@
+=net-misc/aria2-1.16.5 **
+
+#required by p7zip (argument)
+=app-arch/p7zip-9.20.1-r3 ~arm
+#required by wqy-microhei (argument)
+=media-fonts/wqy-microhei-0.2.0_beta ~arm
+#required by bitstream-cyberbit (argument)
+=media-fonts/bitstream-cyberbit-2.0 **
+#required by acroread-asianfonts (argument)
+=media-fonts/acroread-asianfonts-9.1 **
+#required by bridge-utils (argument)
+=net-misc/bridge-utils-1.5 ~arm
+#required by wqy-zenhei (argument)
+=media-fonts/wqy-zenhei-0.9.45 ~arm
+#required by macchanger (argument)
+=net-analyzer/macchanger-1.5.0-r2 ~arm
+#required by acpitool (argument)
+=sys-power/acpitool-0.5.1-r1 **
+#required by wqy-unibit (argument)
+=media-fonts/wqy-unibit-1.1.0_p1 ~arm
+#required by takao-fonts (argument)
+=media-fonts/takao-fonts-003.02.01 **
+#required by unace (argument)
+=app-arch/unace-2.5-r3 ~arm
+#required by axel (argument)
+=net-misc/axel-2.4-r2 **
+#required by droid (argument)
+=media-fonts/droid-113-r2 **
+
+
+#required by @selected, required by @world (argument)
+=sys-fs/progsreiserfs-0.3.1_rc8 **
+#required by @selected, required by @world (argument)
+=app-i18n/ibus-table-1.5.0 **
+#required by app-i18n/ibus-pinyin-1.5.0, required by @selected, required by @world (argument)
+=app-i18n/pyzy-0.1.0 **
+#required by @selected, required by @world (argument)
+=app-i18n/ibus-pinyin-1.5.0 **
+#required by @selected, required by @world (argument)
+=x11-misc/trayer-1.0-r1 **
+#required by x11-misc/xsensors-0.70, required by @selected, required by @world (argument)
+=sys-apps/lm_sensors-3.3.3-r2 ~arm
+=dev-libs/glib-2.34.3 ~arm
+#required by app-arch/file-roller-3.6.3, required by @selected, required by @world (argument)
+=dev-libs/json-glib-0.16.0 ~arm
+#required by @selected, required by @world (argument)
+=sys-fs/ntfs3g-2013.1.13 ~arm
+#required by @selected, required by @world (argument)
+=net-misc/ntpclient-2010.365 ~arm
+#required by @selected, required by @world (argument)
+=app-arch/file-roller-3.6.3 ~arm
+#required by @selected, required by @world (argument)
+=x11-misc/sw-notify-send-9999 **
+#required by media-plugins/audacious-plugins-3.3.4
+=media-sound/audacious-3.3.4 **
+#required by @selected, required by @world (argument)
+=net-dns/ez-ipupdate-3.0.11.13.3_beta8 **
+#required by @selected, required by @world (argument)
+=sys-apps/preload-0.6.4-r3 **
+#required by @selected, required by @world (argument)
+=media-gfx/feh-2.9.2 ~arm
+#required by @selected, required by @world (argument)
+=net-misc/wol-0.7.1 ~arm
+#required by @selected, required by @world (argument)
+=sys-apps/usbmon-6 **
+#required by @selected, required by @world (argument)
+=net-misc/autossh-1.4c ~arm
+
+#required by media-sound/audacious-3.3.4, required by @selected, required by @world (argument)
+=media-plugins/audacious-plugins-3.3.4 **
+#required by @selected, required by @world (argument)
+=app-arch/rar-4.2.0 **
+#required by @selected, required by @world (argument)
+=x11-misc/xsensors-0.70 **
+#required by x11-misc/sw-notify-send-9999, required by @selected, required by @world (argument)
+=x11-libs/libtinynotify-systemwide-9999 **
+#required by @selected, required by @world (argument)
+=dev-util/tkdiff-4.2 **
+#required by @selected, required by @world (argument)
+=net-print/cups-pdf-3.0_beta1 **
+#required by @selected, required by @world (argument)
+=sys-apps/uam-9999 **
+#required by app-arch/file-roller-3.6.3, required by @selected, required by @world (argument)
+=dev-libs/json-glib-0.15.2 ~arm
+#required by x11-misc/sw-notify-send-9999, required by @selected, required by @world (argument)
+=x11-libs/libtinynotify-cli-9999 **
+#required by x11-libs/libtinynotify-systemwide-9999, required by x11-misc/sw-notify-send-9999, required by @selected, required by @world (argument)
+=x11-libs/libtinynotify-9999 **
+
