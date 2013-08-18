@@ -57,6 +57,7 @@ net-misc/ntpclient
 net-misc/tightvnc
 net-misc/wol
 net-print/cups-pdf
+net-wireless/aircrack-ng
 sys-apps/ethtool
 sys-apps/lm_sensors
 sys-apps/preload
