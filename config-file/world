@@ -38,6 +38,7 @@ media-fonts/wqy-bitmapfont
 media-fonts/wqy-microhei
 media-fonts/wqy-unibit
 media-fonts/wqy-zenhei
+media-gfx/eog
 media-gfx/feh
 media-sound/alsamixergui
 media-sound/audacious
@@ -48,6 +49,7 @@ net-analyzer/netselect
 net-dialup/rp-pppoe
 net-dns/ez-ipupdate
 net-firewall/iptables
+net-fs/samba
 net-misc/aria2
 net-misc/autossh
 net-misc/axel
@@ -88,4 +90,5 @@ x11-terms/rxvt-unicode
 x11-terms/xfce4-terminal
 x11-terms/xterm
 x11-wm/openbox
+xfce-base/thunar
 xfce-base/xfce4-meta
